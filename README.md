@@ -20,7 +20,7 @@ The dataset taken appears to be related to employee information in IBM company. 
 **MaritalStatus:** The marital status of the employee (Single, Married, Divorced).<br>
 **MonthlyIncome:** The monthly income of the employee.<br>
 **MonthlyRate:** The monthly rate of the employee.<br>
-**NumCompaniesWorked:**The number of companies the employee worked at.<br>
+**NumCompaniesWorked**:The number of companies the employee worked at.<br>
 **Over18:** Whether the employee is over 18 years old or not (Y/N).<br>
 **OverTime:** Whether the employee works overtime or not (Yes/No).<br>
 **PercentSalaryHike:** The percentage of the employee's salary hike.<br>
